@@ -1,4 +1,3 @@
-
 ![Logo](https://i.ibb.co/pjs0sr4/Screenshot-2.png)
 
 is a simple web-based tool with the ability to scan diagnostic sweats and stress tests
