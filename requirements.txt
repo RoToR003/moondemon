@@ -1,2 +1,2 @@
-fade==1.0.9
+fade==0.0.9
 requests==2.26.0
