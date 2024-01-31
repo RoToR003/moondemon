@@ -3,7 +3,7 @@
 is a simple web-based tool with the ability to scan diagnostic sweats and stress tests
 
 
-## Installation
+## Installation/Termux
 
 Install moondemon with git
 
