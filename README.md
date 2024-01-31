@@ -23,4 +23,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![Logo](https://i.ibb.co/r4tcYRZ/Screenshot-1.png)
+![Logo](https://i.ibb.co/PCzRMYG/Picsart-24-01-31-22-07-18-638.jpg)
